@@ -1,7 +1,6 @@
-package com.example.apiwcrud.controller;
+package com.example.apicrud.controller;
 
 import com.example.apiwcrud.model.UserssEntity;
-import com.example.apiwcrud.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
